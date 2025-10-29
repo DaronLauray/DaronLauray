@@ -1,16 +1,19 @@
-## Hi there 👋
+# About me
 
-<!--
-**DaronLauray/DaronLauray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**DaronLauray/DaronLauray** ✨ _special_ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my landing my first Tech Role
+- 🌱 I’m currently learning the workflow on Github and syntax
+- 👯 I’m looking to collaborate on anything really, just want to help show my skilset to employers and clients
+- 🤔 I’m looking for help with cybersecurity
+- 📫 How to reach me: Email is best; truecommunityupliftllc@gmail.com or daronlauray@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am multi-talented/skilled 
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1| Javascript    |
+|     2| HTML          |
+|     3| SQL           |
+|     4| and more!     |
