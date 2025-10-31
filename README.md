@@ -3,7 +3,7 @@
 
 **DaronLauray/DaronLauray** ✨ _special_ ✨
 
-- 🔭 I’m currently working on my landing my first Tech Role
+- 🔭 I’m currently working on growing in the Tech Industry
 - 🌱 I’m currently learning the workflow on Github and syntax
 - 👯 I’m looking to collaborate on anything really, just want to help show my skilset to employers and clients
 - 🤔 I’m looking for help with cybersecurity
